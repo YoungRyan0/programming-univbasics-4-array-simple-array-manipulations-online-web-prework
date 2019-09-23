@@ -35,6 +35,7 @@ def using_insert(array, item)
 
 end
 
-def using_uniq
+def using_uniq(haircuts)
+  haircuts.unqi
 
 end
