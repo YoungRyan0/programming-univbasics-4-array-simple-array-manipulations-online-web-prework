@@ -36,6 +36,6 @@ def using_insert(array, item)
 end
 
 def using_uniq(haircuts)
-  haircuts.unqi
+  haircuts.uniq
 
 end
