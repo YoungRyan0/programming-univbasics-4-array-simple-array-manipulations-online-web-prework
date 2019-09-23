@@ -44,5 +44,7 @@ def using_flatten (array)
   array.flatten
 end
 
-def using_delete_at 
+def using_delete_at (instructors, steven)
+  instructors.delete_at(steven)
+end
   
